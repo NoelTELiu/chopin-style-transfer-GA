@@ -1,0 +1,205 @@
+Pitch Classes,Chord Name,Chord Type
+"[0, 4, 7]",C Major,Major
+"[0, 3, 7]",C Minor,Minor
+"[0, 3, 6]",C Diminished,Diminished
+"[0, 4, 8]",C Augmented,Augmented
+"[0, 4, 7, 11]",C Major 7th,Major 7th
+"[0, 4, 7, 10]",C Dominant 7th,Dominant 7th
+"[0, 3, 7, 10]",C Minor 7th,Minor 7th
+"[0, 3, 6, 10]",C Half-diminished 7th,Half-diminished 7th
+"[0, 3, 6, 9]",C Diminished 7th,Diminished 7th
+"[0, 3, 7, 11]",C Minor Major 7th,Minor Major 7th
+"[1, 5, 8]",C# Major,Major
+"[1, 4, 8]",C# Minor,Minor
+"[1, 4, 7]",C# Diminished,Diminished
+"[1, 5, 9]",C# Augmented,Augmented
+"[1, 5, 8, 0]",C# Major 7th,Major 7th
+"[1, 5, 8, 11]",C# Dominant 7th,Dominant 7th
+"[1, 4, 8, 11]",C# Minor 7th,Minor 7th
+"[1, 4, 7, 11]",C# Half-diminished 7th,Half-diminished 7th
+"[1, 4, 7, 10]",C# Diminished 7th,Diminished 7th
+"[1, 4, 8, 0]",C# Minor Major 7th,Minor Major 7th
+"[2, 6, 9]",D Major,Major
+"[2, 5, 9]",D Minor,Minor
+"[2, 5, 8]",D Diminished,Diminished
+"[2, 6, 10]",D Augmented,Augmented
+"[2, 6, 9, 1]",D Major 7th,Major 7th
+"[2, 6, 9, 0]",D Dominant 7th,Dominant 7th
+"[2, 5, 9, 0]",D Minor 7th,Minor 7th
+"[2, 5, 8, 0]",D Half-diminished 7th,Half-diminished 7th
+"[2, 5, 8, 11]",D Diminished 7th,Diminished 7th
+"[2, 5, 9, 1]",D Minor Major 7th,Minor Major 7th
+"[3, 7, 10]",D# Major,Major
+"[3, 6, 10]",D# Minor,Minor
+"[3, 6, 9]",D# Diminished,Diminished
+"[3, 7, 11]",D# Augmented,Augmented
+"[3, 7, 10, 2]",D# Major 7th,Major 7th
+"[3, 7, 10, 1]",D# Dominant 7th,Dominant 7th
+"[3, 6, 10, 1]",D# Minor 7th,Minor 7th
+"[3, 6, 9, 1]",D# Half-diminished 7th,Half-diminished 7th
+"[3, 6, 9, 0]",D# Diminished 7th,Diminished 7th
+"[3, 6, 10, 2]",D# Minor Major 7th,Minor Major 7th
+"[4, 8, 11]",E Major,Major
+"[4, 7, 11]",E Minor,Minor
+"[4, 7, 10]",E Diminished,Diminished
+"[4, 8, 0]",E Augmented,Augmented
+"[4, 8, 11, 3]",E Major 7th,Major 7th
+"[4, 8, 11, 2]",E Dominant 7th,Dominant 7th
+"[4, 7, 11, 2]",E Minor 7th,Minor 7th
+"[4, 7, 10, 2]",E Half-diminished 7th,Half-diminished 7th
+"[4, 7, 10, 1]",E Diminished 7th,Diminished 7th
+"[4, 7, 11, 3]",E Minor Major 7th,Minor Major 7th
+"[5, 9, 0]",F Major,Major
+"[5, 8, 0]",F Minor,Minor
+"[5, 8, 11]",F Diminished,Diminished
+"[5, 9, 1]",F Augmented,Augmented
+"[5, 9, 0, 4]",F Major 7th,Major 7th
+"[5, 9, 0, 3]",F Dominant 7th,Dominant 7th
+"[5, 8, 0, 3]",F Minor 7th,Minor 7th
+"[5, 8, 11, 3]",F Half-diminished 7th,Half-diminished 7th
+"[5, 8, 11, 2]",F Diminished 7th,Diminished 7th
+"[5, 8, 0, 4]",F Minor Major 7th,Minor Major 7th
+"[6, 10, 1]",F# Major,Major
+"[6, 9, 1]",F# Minor,Minor
+"[6, 9, 0]",F# Diminished,Diminished
+"[6, 10, 2]",F# Augmented,Augmented
+"[6, 10, 1, 5]",F# Major 7th,Major 7th
+"[6, 10, 1, 4]",F# Dominant 7th,Dominant 7th
+"[6, 9, 1, 4]",F# Minor 7th,Minor 7th
+"[6, 9, 0, 4]",F# Half-diminished 7th,Half-diminished 7th
+"[6, 9, 0, 3]",F# Diminished 7th,Diminished 7th
+"[6, 9, 1, 5]",F# Minor Major 7th,Minor Major 7th
+"[7, 11, 2]",G Major,Major
+"[7, 10, 2]",G Minor,Minor
+"[7, 10, 1]",G Diminished,Diminished
+"[7, 11, 3]",G Augmented,Augmented
+"[7, 11, 2, 6]",G Major 7th,Major 7th
+"[7, 11, 2, 5]",G Dominant 7th,Dominant 7th
+"[7, 10, 2, 5]",G Minor 7th,Minor 7th
+"[7, 10, 1, 5]",G Half-diminished 7th,Half-diminished 7th
+"[7, 10, 1, 4]",G Diminished 7th,Diminished 7th
+"[7, 10, 2, 6]",G Minor Major 7th,Minor Major 7th
+"[8, 0, 3]",G# Major,Major
+"[8, 11, 3]",G# Minor,Minor
+"[8, 11, 2]",G# Diminished,Diminished
+"[8, 0, 4]",G# Augmented,Augmented
+"[8, 0, 3, 7]",G# Major 7th,Major 7th
+"[8, 0, 3, 6]",G# Dominant 7th,Dominant 7th
+"[8, 11, 3, 6]",G# Minor 7th,Minor 7th
+"[8, 11, 2, 6]",G# Half-diminished 7th,Half-diminished 7th
+"[8, 11, 2, 5]",G# Diminished 7th,Diminished 7th
+"[8, 11, 3, 7]",G# Minor Major 7th,Minor Major 7th
+"[9, 1, 4]",A Major,Major
+"[9, 0, 4]",A Minor,Minor
+"[9, 0, 3]",A Diminished,Diminished
+"[9, 1, 5]",A Augmented,Augmented
+"[9, 1, 4, 8]",A Major 7th,Major 7th
+"[9, 1, 4, 7]",A Dominant 7th,Dominant 7th
+"[9, 0, 4, 7]",A Minor 7th,Minor 7th
+"[9, 0, 3, 7]",A Half-diminished 7th,Half-diminished 7th
+"[9, 0, 3, 6]",A Diminished 7th,Diminished 7th
+"[9, 0, 4, 8]",A Minor Major 7th,Minor Major 7th
+"[10, 2, 5]",A# Major,Major
+"[10, 1, 5]",A# Minor,Minor
+"[10, 1, 4]",A# Diminished,Diminished
+"[10, 2, 6]",A# Augmented,Augmented
+"[10, 2, 5, 9]",A# Major 7th,Major 7th
+"[10, 2, 5, 8]",A# Dominant 7th,Dominant 7th
+"[10, 1, 5, 8]",A# Minor 7th,Minor 7th
+"[10, 1, 4, 8]",A# Half-diminished 7th,Half-diminished 7th
+"[10, 1, 4, 7]",A# Diminished 7th,Diminished 7th
+"[10, 1, 5, 9]",A# Minor Major 7th,Minor Major 7th
+"[11, 3, 6]",B Major,Major
+"[11, 2, 6]",B Minor,Minor
+"[11, 2, 5]",B Diminished,Diminished
+"[11, 3, 7]",B Augmented,Augmented
+"[11, 3, 6, 10]",B Major 7th,Major 7th
+"[11, 3, 6, 9]",B Dominant 7th,Dominant 7th
+"[11, 2, 6, 9]",B Minor 7th,Minor 7th
+"[11, 2, 5, 9]",B Half-diminished 7th,Half-diminished 7th
+"[11, 2, 5, 8]",B Diminished 7th,Diminished 7th
+"[11, 2, 6, 10]",B Minor Major 7th,Minor Major 7th
+"[0, 4, 7, 10, 2]",C Dominant 9th,Dominant 9th
+"[0, 4, 7, 10, 2, 5]",C Dominant 11th,Dominant 11th
+"[0, 4, 7, 10, 2, 5, 9]",C Dominant 13th,Dominant 13th
+"[0, 2, 7]",C Sus2,Sus2
+"[0, 5, 7]",C Sus4,Sus4
+"[0, 4, 7, 2]",C Add9,Add9
+"[0, 2, 4, 7]",C Add2,Add2
+"[1, 5, 8, 11, 3]",C# Dominant 9th,Dominant 9th
+"[1, 5, 8, 11, 3, 6]",C# Dominant 11th,Dominant 11th
+"[1, 5, 8, 11, 3, 6, 10]",C# Dominant 13th,Dominant 13th
+"[1, 3, 8]",C# Sus2,Sus2
+"[1, 6, 8]",C# Sus4,Sus4
+"[1, 5, 8, 3]",C# Add9,Add9
+"[1, 3, 5, 8]",C# Add2,Add2
+"[2, 6, 9, 0, 4]",D Dominant 9th,Dominant 9th
+"[2, 6, 9, 0, 4, 7]",D Dominant 11th,Dominant 11th
+"[2, 6, 9, 0, 4, 7, 11]",D Dominant 13th,Dominant 13th
+"[2, 4, 9]",D Sus2,Sus2
+"[2, 7, 9]",D Sus4,Sus4
+"[2, 6, 9, 4]",D Add9,Add9
+"[2, 4, 6, 9]",D Add2,Add2
+"[3, 7, 10, 1, 5]",D# Dominant 9th,Dominant 9th
+"[3, 7, 10, 1, 5, 8]",D# Dominant 11th,Dominant 11th
+"[3, 7, 10, 1, 5, 8, 0]",D# Dominant 13th,Dominant 13th
+"[3, 5, 10]",D# Sus2,Sus2
+"[3, 8, 10]",D# Sus4,Sus4
+"[3, 7, 10, 5]",D# Add9,Add9
+"[3, 5, 7, 10]",D# Add2,Add2
+"[4, 8, 11, 2, 6]",E Dominant 9th,Dominant 9th
+"[4, 8, 11, 2, 6, 9]",E Dominant 11th,Dominant 11th
+"[4, 8, 11, 2, 6, 9, 1]",E Dominant 13th,Dominant 13th
+"[4, 6, 11]",E Sus2,Sus2
+"[4, 9, 11]",E Sus4,Sus4
+"[4, 8, 11, 6]",E Add9,Add9
+"[4, 6, 8, 11]",E Add2,Add2
+"[5, 9, 0, 3, 7]",F Dominant 9th,Dominant 9th
+"[5, 9, 0, 3, 7, 10]",F Dominant 11th,Dominant 11th
+"[5, 9, 0, 3, 7, 10, 2]",F Dominant 13th,Dominant 13th
+"[5, 7, 0]",F Sus2,Sus2
+"[5, 10, 0]",F Sus4,Sus4
+"[5, 9, 0, 7]",F Add9,Add9
+"[5, 7, 9, 0]",F Add2,Add2
+"[6, 10, 1, 4, 8]",F# Dominant 9th,Dominant 9th
+"[6, 10, 1, 4, 8, 11]",F# Dominant 11th,Dominant 11th
+"[6, 10, 1, 4, 8, 11, 3]",F# Dominant 13th,Dominant 13th
+"[6, 8, 1]",F# Sus2,Sus2
+"[6, 11, 1]",F# Sus4,Sus4
+"[6, 10, 1, 8]",F# Add9,Add9
+"[6, 8, 10, 1]",F# Add2,Add2
+"[7, 11, 2, 5, 9]",G Dominant 9th,Dominant 9th
+"[7, 11, 2, 5, 9, 0]",G Dominant 11th,Dominant 11th
+"[7, 11, 2, 5, 9, 0, 4]",G Dominant 13th,Dominant 13th
+"[7, 9, 2]",G Sus2,Sus2
+"[7, 0, 2]",G Sus4,Sus4
+"[7, 11, 2, 9]",G Add9,Add9
+"[7, 9, 11, 2]",G Add2,Add2
+"[8, 0, 3, 6, 10]",G# Dominant 9th,Dominant 9th
+"[8, 0, 3, 6, 10, 1]",G# Dominant 11th,Dominant 11th
+"[8, 0, 3, 6, 10, 1, 5]",G# Dominant 13th,Dominant 13th
+"[8, 10, 3]",G# Sus2,Sus2
+"[8, 1, 3]",G# Sus4,Sus4
+"[8, 0, 3, 10]",G# Add9,Add9
+"[8, 10, 0, 3]",G# Add2,Add2
+"[9, 1, 4, 7, 11]",A Dominant 9th,Dominant 9th
+"[9, 1, 4, 7, 11, 2]",A Dominant 11th,Dominant 11th
+"[9, 1, 4, 7, 11, 2, 6]",A Dominant 13th,Dominant 13th
+"[9, 11, 4]",A Sus2,Sus2
+"[9, 2, 4]",A Sus4,Sus4
+"[9, 1, 4, 11]",A Add9,Add9
+"[9, 11, 1, 4]",A Add2,Add2
+"[10, 2, 5, 8, 0]",A# Dominant 9th,Dominant 9th
+"[10, 2, 5, 8, 0, 3]",A# Dominant 11th,Dominant 11th
+"[10, 2, 5, 8, 0, 3, 7]",A# Dominant 13th,Dominant 13th
+"[10, 0, 5]",A# Sus2,Sus2
+"[10, 3, 5]",A# Sus4,Sus4
+"[10, 2, 5, 0]",A# Add9,Add9
+"[10, 0, 2, 5]",A# Add2,Add2
+"[11, 3, 6, 9, 1]",B Dominant 9th,Dominant 9th
+"[11, 3, 6, 9, 1, 4]",B Dominant 11th,Dominant 11th
+"[11, 3, 6, 9, 1, 4, 8]",B Dominant 13th,Dominant 13th
+"[11, 1, 6]",B Sus2,Sus2
+"[11, 4, 6]",B Sus4,Sus4
+"[11, 3, 6, 1]",B Add9,Add9
+"[11, 1, 3, 6]",B Add2,Add2

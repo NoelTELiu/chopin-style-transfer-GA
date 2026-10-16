@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chopin-style-transfer-ga"
+version = "1.0.0"
+description = "Senior-project source code for symbolic piano music style transfer using a two-stage genetic algorithm."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Po-Chen Liu (Noel Liu)" },
+  { name = "Ching-Ting Chen" },
+  { name = "Chun-Hung Wu" },
+]
+dependencies = [
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+  "music21>=9.1",
+  "pandas>=2.0",
+  "scipy>=1.10",
+]
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+chopin_style_transfer = ["resources/*.csv"]

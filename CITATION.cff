@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or discuss this project, please cite the project and contact all authors for permission as required by LICENSE."
+title: "Music Style Transfer to Chopin's Nocturne Style Using Genetic Algorithms"
+type: software
+year: 2025
+authors:
+  - family-names: Liu
+    given-names: Po-Chen
+  - family-names: Chen
+    given-names: Ching-Ting
+  - family-names: Wu
+    given-names: Chun-Hung

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime artifacts
+outputs/
+output/
+temp_xml/
+*.log
+
+# Local scratch files
+input.json
+goal.json
+best_melody.json
+best_accompaniment.json
